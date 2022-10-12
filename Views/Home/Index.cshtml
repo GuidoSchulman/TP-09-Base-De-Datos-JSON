@@ -14,50 +14,13 @@ var mapProp= {
 };
 var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 }
-
-
-
 </script>
+
+
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBxwd7dvr7mdeNYXhTiSsR4TFs3TzCaENc&callback=myMap"></script>
 
-<script>
-
-    $(function() {
-
-
-   var Restaurante = [];
-
-   $.getJSON('Restaurante.json', function(data) {
-       $.each(data.Restaurante, function(i, f) {
-          var tblRow = "<tr>" + "<td>" + f.Nombre + "</td>" +
-           "<td>" + f.ID + "</td>" + "<td>" + f.Año de Apertura + "</td>" + "<td>" + f.Dueño + "</td>" + "</tr>"
-           $(tblRow).appendTo("#userdata tbody");
-     });
-
-   });
-
-});
-</script>
-
-
-<div class="wrapper">
-<div class="profile">
-   <table id= "userdata" border="2">
-  <thead>
-            <th>Nombre</th>
-            <th>ID</th>
-            <th>Año de Apertura</th>
-            <th>Dueño</th>
-        </thead>
-      <tbody>
-
-       </tbody>
-   </table>
-
-</div>
-</div>
-
+<button onclick="CargarDatos()">Click me</button>
 
 </body>
 </html>

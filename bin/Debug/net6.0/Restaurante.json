@@ -1,0 +1,233 @@
+{
+    "Restaurante":[
+    {
+    "ID":1,
+    "Nombre":"MCDONALDS",
+    "Año de Apertura":1995,
+    "Ubicacion":"-34.603207629038515, -58.42044242605835",
+    "Dueño":"Ronald MCDonald",
+    "Logo":"MC.jpg",
+
+    "Menu":[
+        {
+        "Primer Plato":[
+            {
+                "Nombre":"Nuggets",
+                "Precio Unitario":850
+            }
+        ],
+        "Plato Principal":[
+            {
+                "Nombre":"Cuarto de Libra",
+                "Precio Unitario":1350
+            }
+        ],
+
+        "Postre":[
+            {
+            "Nombre":"Sundae",
+            "Precio Unitario":300
+            }
+        ]
+
+        }
+        
+        ],
+        "Reseña":[
+        {
+            "NombreUsuario":["guidoschul","octaShwar","martoisra"],
+            "Valoracion":[3.5,2.1,3.8],
+            "Descripcion":["Rica comida, feo lugar","No me gusto casi nada","Estaba muy rico"],
+            "CantLikes":[30,10,8]
+
+
+        }
+        ]
+    },
+    {
+        "ID":2,
+        "Nombre":"Burger King",
+        "Año de Apertura":1997,
+        "Ubicacion":"-34.601971675666206, -58.43154491540043",
+        "Dueño":"Totin Avola",
+        "Logo":"burger.jpg",
+ 
+        "Menu":[
+         {
+            "Primer Plato":[
+               {
+                  "Nombre":"Papas Fritas",
+                  "Precio Unitario":250
+               }
+            ],
+            "Plato Principal":[
+               {
+                  "Nombre":"Whooper",
+                  "Precio Unitario":950
+               }
+            ],
+ 
+            "Postre":[
+             {
+                "Nombre":"Churros con dulce de leche",
+                "Precio Unitario":150
+             }
+          ]
+ 
+         }
+         
+         ],
+         "Reseña":[
+         {
+            "NombreUsuario":["martoisra","octaShwar","Santp"],
+            "Valoracion":[4,4.3,3.6],
+            "Descripcion":["El lugar esta muy bien ambientado","Las papas me encantaron","rico pero medio crudo"],
+            "CantLikes":[30,10,40]
+
+ 
+         }
+         ]
+    },
+
+    {
+        "ID":3,
+        "Nombre":"Gra-Hu",
+        "Año de Apertura":1986,
+        "Ubicacion":"-34.611625069254764, -58.43037820203032",
+        "Dueño":"Hugo Poyin",
+        "Logo":"Poyin.jpg",
+ 
+        "Menu":[
+         {
+            "Primer Plato":[
+               {
+                  "Nombre":"Papas Fritas",
+                  "Precio Unitario":70
+               }
+            ],
+            "Plato Principal":[
+               {
+                  "Nombre":"Sanguche de milanesa con cheddar",
+                  "Precio Unitario":340
+               }
+            ],
+ 
+            "Postre":[
+             {
+                "Nombre":"",
+                "Precio Unitario":null
+             }
+          ]
+ 
+         }
+         
+         ],
+         "Reseña":[
+         {
+             "NombreUsuario":["bautilarra","guidoschul","martoisra"],
+             "Valoracion":[5,4.8,4.7],
+             "Descripcion":["Vengo a este lugar cuatro veces por semana, por algo será","ME ENCANTA","Riquisimo, solido siempre"],
+             "CantLikes":[75,80,67]
+ 
+ 
+         }
+         ]
+    },
+    {
+        "ID":4,
+        "Nombre":"El club de la Milanesa",
+        "Año de Apertura":1990,
+        "Ubicacion":"-34.59994104808728, -58.43815420522345",
+        "Dueño":"Mr Milanesa",
+        "Logo":"clubmilanesa.jpg",
+ 
+        "Menu":[
+         {
+            "Primer Plato":[
+               {
+                  "Nombre":"Bastones de Muzzarella",
+                  "Precio Unitario":350
+               }
+            ],
+            "Plato Principal":[
+               {
+                  "Nombre":"Milanesa a caballo",
+                  "Precio Unitario":1050
+               }
+            ],
+ 
+            "Postre":[
+             {
+                "Nombre":"Tiramisú",
+                "Precio Unitario":570
+             }
+          ]
+ 
+         }
+         
+         ],
+         "Reseña":[
+         {
+             "NombreUsuario":["santipascual","NanoCase","guidoschul"],
+             "Valoracion":[4,2.5,5],
+             "Descripcion":["Las milanesas de este lugar son increibles","No me gustan las milanesas","Nunca probe algo mejor"],
+             "CantLikes":[27,3,50]
+ 
+ 
+         }
+         ]
+    },
+
+    {
+        "ID":5,
+        "Nombre":"La Matildita",
+        "Año de Apertura":1960,
+        "Ubicacion":"-34.60876543538236, -58.431891447571594",
+        "Dueño":"Matilda",
+        "Logo":"matildita.jpg",
+ 
+        "Menu":[
+         {
+            "Primer Plato":[
+               {
+                  "Nombre":"Tarta de verduras",
+                  "Precio Unitario":450
+               }
+            ],
+            "Plato Principal":[
+               {
+                  "Nombre":"Ñoquis con salsa rosa",
+                  "Precio Unitario":550
+               }
+            ],
+ 
+            "Postre":[
+             {
+                "Nombre":"Franui",
+                "Precio Unitario":750
+             }
+          ]
+ 
+         }
+         
+         ],
+         "Reseña":[
+         {
+             "NombreUsuario":["guidox","martoisra","Gabichex"],
+             "Valoracion":[5,4.8,3,5],
+             "Descripcion":["Todos los miercoles es dia de matildita","Es excelente","muy caro"],
+             "CantLikes":[100,50,80]
+ 
+ 
+         }
+         ]
+    }
+
+]
+}
+
+   
+ 
+
+
+

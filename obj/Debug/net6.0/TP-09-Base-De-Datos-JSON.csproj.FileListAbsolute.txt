@@ -24,3 +24,4 @@ C:\Users\46961979\Desktop\TP-09-Base-De-Datos-JSON\obj\Debug\net6.0\refint\TP-09
 C:\Users\46961979\Desktop\TP-09-Base-De-Datos-JSON\obj\Debug\net6.0\TP-09-Base-De-Datos-JSON.pdb
 C:\Users\46961979\Desktop\TP-09-Base-De-Datos-JSON\obj\Debug\net6.0\TP-09-Base-De-Datos-JSON.genruntimeconfig.cache
 C:\Users\46961979\Desktop\TP-09-Base-De-Datos-JSON\obj\Debug\net6.0\ref\TP-09-Base-De-Datos-JSON.dll
+C:\Users\46961979\Desktop\TP-09-Base-De-Datos-JSON\bin\Debug\net6.0\Restaurante.json
